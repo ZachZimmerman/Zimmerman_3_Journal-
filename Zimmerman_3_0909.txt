@@ -1,0 +1,4 @@
+Explain what we did yesterday (with github) and why.
+We connected the account with the compter to see our files on github and vice versa.
+
+
