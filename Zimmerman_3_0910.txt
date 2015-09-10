@@ -1,0 +1,3 @@
+Explain what we did yesterday and why.
+We typed our journal, then we commited the text file to push it on to GitHub so you can see it there.
+
