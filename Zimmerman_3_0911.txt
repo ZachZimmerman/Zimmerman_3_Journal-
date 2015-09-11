@@ -1,0 +1,2 @@
+Explain: What is pseudocode - What is it good for? Why will we use it?
+Pseudocode is essential fake code. We can use it to pratice our code before we send a 1000000000000000000000 hours on the real code that may not work. We will use it so we don't mess up our code.
