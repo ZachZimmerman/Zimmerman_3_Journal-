@@ -1,0 +1,3 @@
+What is a IDE? What is it good for?
+An IDE is a integrated development environment is good for writing code and testing your code n' stuff.
+

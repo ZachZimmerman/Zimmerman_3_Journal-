@@ -1,0 +1,8 @@
+Some students may indicate " just give me teh codez [sic], I don't want to practice organizing my thoughts. "
+How would you explain the importance of organizing one's thoughts and not proceeding in a haphazard manner? 
+So then you can learn how to articulate and they also learn how to do the code. Also cheating results in getting a zero and bad stuff like that.
+
+Today you will finish creating an image of your Processing art overlaid with code.
+Why?
+So we can learn how to make orginal code and stuff.
+
