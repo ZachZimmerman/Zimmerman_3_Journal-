@@ -1,0 +1,7 @@
+Have you received credit for all journals?
+I have and it's grrrrrrrrrrreat.
+Why is it important that you use the naming convention specified when naming files?
+So you recieve credit for the right files.
+What is the command to copy in Linux? to copy all of a directory to the current directory?
+Ctrl+Shift+C 
+I'm no sure about the last part.
