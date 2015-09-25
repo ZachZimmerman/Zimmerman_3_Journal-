@@ -1,0 +1,4 @@
+MIT gives you total controll over your sources code, GPL is open source and anyone can change it.
+We use GPL so we can be stopped from doing stuff we aren't suppose to do and so Mr.Davis can monitor us.
+Linux???
+
