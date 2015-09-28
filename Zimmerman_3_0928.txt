@@ -1,0 +1,7 @@
+How can you count in Java?
+Make a for loop, that displays i (i++).
+How can you check if a number is divissible.
+use dodulo %
+if (i % x== 0)
+How can you track if a number is divisble?
+It has divisors???
