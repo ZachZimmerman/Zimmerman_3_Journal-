@@ -1,0 +1,5 @@
+What are Code Comments? What are they gouda for?
+//This comments out the line that you put it on so you and still see it but does not effect the code.
+//It is good for not deleting a line you worked a bizzion hours on so its still there but not changing the code.
+
+
