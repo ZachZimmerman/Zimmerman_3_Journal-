@@ -1,0 +1,8 @@
+What are methods?
+They are functions, also small codes.
+What are classes?
+The template for your program.
+What is an instance?
+It is an object that is created in a class.
+What are class methods?
+A thing like static.
