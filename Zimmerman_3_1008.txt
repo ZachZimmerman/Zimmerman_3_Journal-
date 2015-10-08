@@ -1,0 +1,10 @@
+What are your tentative thoughts / plans for your art project?
+make an image of anythinfg but make it look 3D.
+What might be methods you will use?
+To have different colors interchange between themself
+How might you incorporate a for loop?
+Too have an image come up over and over a little off set to make it look 3D
+How might you incorporate, if, else if, else?
+If it is a rectangle then color BLUE. else circle color RED???
+What math might you use? 
+Coordinates sooooo algbra i guess.
