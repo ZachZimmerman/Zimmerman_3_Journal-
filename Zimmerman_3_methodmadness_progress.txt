@@ -1,0 +1,5 @@
+I made someCircles to be random and go all over the place. Then I did the 
+same thing for someRectangles. Then I started playing with the cirlce
+ colors and ended up making them translucent. Now I want to do some of the
+ same thing coming from each corner with a variatiob of shapes and maybe
+ colors. 
