@@ -1,0 +1,6 @@
+Is your guessing game a game? Why or why not?
+No not really, it is always a set number and the number doesn't work it pops
+out with an error.
+What would make it better?
+Having random numbers instead of a set number and have go to more than ten but
+also give hints.
