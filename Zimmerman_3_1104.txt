@@ -1,0 +1,15 @@
+What is a method?
+It is like a function that you can call anywhere in the program.
+Like a mini program 
+
+Which methods did you use and how did you use them in your guessing game
+program?
+The playagain method to check if it was true or false to actually play again.
+
+What is a while loop?
+It is like a for loop that runs for the whole program and not just part of it.
+ 
+How did you use a while loop, boolean, and counter in your guessing game? 
+I used the boolean to tell the program wether or not to replay the game
+(the playagain class)A counter to tell the boolean how many times to play the 
+game over. And the while loop to have  
