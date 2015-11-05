@@ -1,0 +1,12 @@
+What are Strings?
+A bunch of characters that make an object.
+
+What are they good for?
+For having a bunch letters represented by numbers that you can pick out to
+make words with doing a butt ton of System.out.printlns
+
+What are some string methods?
+Sub strings.
+
+How do we identify string methods?
+How they start. like stringname.methodname.
