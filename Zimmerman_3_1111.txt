@@ -1,0 +1,8 @@
+In your game, what challenges must your player solve?
+A bunch of morale choice of who and what to leave behind.
+
+How will you specifically track whether they have been solved?
+How  many times they had to restart because they did something mean or just wrong.
+
+Provide variable names and types. Classes if applicable. 
+Scanners and booleans.
