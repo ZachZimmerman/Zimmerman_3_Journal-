@@ -1,0 +1,8 @@
+In your games, how can you track what challenges the player has solved?
+I have no idea.
+
+How can you track HP?
+I don't really think there is HP in this game.
+
+How can you track items?
+I don't really know.
