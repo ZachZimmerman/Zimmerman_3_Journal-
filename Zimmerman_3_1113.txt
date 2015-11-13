@@ -1,0 +1,6 @@
+How will you use while loops in your game? Why?
+To be able to go back to the beginnign without resarting the game by pressing
+play in netbeans
+
+How will you use methods in your game? Why?
+To enter on leave segmets of the story.
