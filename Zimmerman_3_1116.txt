@@ -1,0 +1,7 @@
+No, really, How will you use methods in your game? Why?
+Be specific.
+One method would be the start game thing where the user can input their name
+and choose whether or not you want to play the game.
+
+What values will you pass to them.
+user onputed values like 1 or 2.
