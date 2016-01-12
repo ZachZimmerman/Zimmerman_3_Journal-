@@ -1,0 +1,9 @@
+What challenges have you encountered with your slick game?
+I complete messed up the pixel sizes and they were all different.
+
+What slick game will you create?
+It is a top down thing. Not a side scroller.
+
+What challenges have you faced / are you facing?
+Nothing yet.
+
