@@ -1,0 +1,11 @@
+How do you add an image to a slick game?
+We make a class for the picture so it can have the righ import stuff(like 
+import org.newdawn.slick.Image;)
+Then in unwavering when we call it we need to give it x&y cordinates so 
+the picture knows where to go.
+
+Where is the image drawn? [What code? Be specific.] 
+The image is drawn in the render class.
+
+point.currentImage.draw(point.x, point.y);
+Like that.
