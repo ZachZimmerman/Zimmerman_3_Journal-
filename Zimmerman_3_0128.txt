@@ -1,0 +1,8 @@
+What is this?:
+public void render(GameContainer gc, StateBasedGame sbg, Graphics g)
+throws SlickException {
+
+Is it a class or method? How do you know?
+
+This is a class that will allow an omage to be made and flung across the
+screen.
