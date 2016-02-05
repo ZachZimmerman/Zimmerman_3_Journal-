@@ -1,0 +1,7 @@
+What is a class constructor?
+The class is the template to make objects.
+
+What should be included in a class constructor for orbs? Why?
+
+
+What methods should the orb have? why?
