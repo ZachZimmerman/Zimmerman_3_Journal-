@@ -1,0 +1,3 @@
+How would one check to see whether weapons damage enemies or objects in Slick?
+You see if they intersect or the hitboxes touch.
+
