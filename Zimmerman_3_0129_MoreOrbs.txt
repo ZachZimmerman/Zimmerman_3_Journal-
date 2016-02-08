@@ -2,6 +2,7 @@ What is a class constructor?
 The class is the template to make objects.
 
 What should be included in a class constructor for orbs? Why?
-
+Hitboxes and to check for interceptions.
 
 What methods should the orb have? why?
+Under enemies so they can take damage and die from the orb.
