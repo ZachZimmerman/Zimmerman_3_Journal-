@@ -1,0 +1,6 @@
+How can / will you make the orb move in the direction you are facing?
+
+Explain and provide specific code.
+I think with if statements saying
+if key pressed the orb will move across the X or Y axis depending on which way
+the player is looking.
