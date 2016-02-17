@@ -1,0 +1,6 @@
+How was an array used in your Slick game?
+An Array was used to make enemies and a few other objects like points and health.
+
+What might be another use for an array in a different program?
+You can show players health and shields or weapon durability to kill stuff.
+
