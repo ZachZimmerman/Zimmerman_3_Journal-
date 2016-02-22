@@ -1,0 +1,49 @@
+Explain this code:
+public Animation Playeranime, up, down, left, right, sprite, wait;
+    public Player() throws SlickException {
+        SpriteSheet runningSS = new SpriteSheet(
+                "res/ogrespritesheet.png", 64, 64, 0);
+        up = new Animation();
+        up.setAutoUpdate(true);
+        up.addFrame(runningSS.getSprite(0, 8), 330);
+        up.addFrame(runningSS.getSprite(1, 8), 330);
+        up.addFrame(runningSS.getSprite(2, 8), 330);
+        up.addFrame(runningSS.getSprite(3, 8), 330);
+        up.addFrame(runningSS.getSprite(4, 8), 330);
+        up.addFrame(runningSS.getSprite(5, 8), 330);
+        up.addFrame(runningSS.getSprite(6, 8), 330);
+        up.addFrame(runningSS.getSprite(7, 8), 330);
+        up.addFrame(runningSS.getSprite(8, 8), 330);
+
+
+Why would it be unrealistic / unproductive  to memorize Slick syntax - what are the skills we were trying to practice?
+It's just something that we won't use because we have an IDE like NetBeans.
+
+What is an array?
+Is an collection of things in java like ints or strings.
+
+How do you make an array? Give an example.
+boolean[]{
+
+}
+
+What is an ArrayList?
+It is a list of numbers.
+
+How do you make an arraylist?
+public ArrayList<Goldcoin> coinz = new ArrayList();
+
+In Netbeans, make an arraylist. Use autocompletion with the created arraylist (the '.' and pop-up):
+
+What are three useful arraylist methods that you identified?
+
+
+What is the difference between an array and an arraylist?
+An array is static and an ArrayList is dynamic. An array can have other data types and an ArrayList are ints.
+
+How could we make a health counter for an avatar?
+private int health = 100; Then use getters setters
+public void takeDamage(int damage){
+this.health-- damage;
+}
+
