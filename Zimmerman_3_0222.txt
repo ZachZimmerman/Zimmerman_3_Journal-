@@ -1,0 +1,24 @@
+We will have a test on friday. It will be about the notes from last week. Are you ready?
+Maybe I have to notes to look at but I am note the best in this class and I don't know everything BUT I HAVE NOTES.
+
+What specific questions do you have about the slick game?
+None that ciome to my mind.
+
+We will be revising our Slick game to:
+1.Have multiple levels
+2.Enemies
+3.Traps (or something) defined by an array
+4.Give and take damage
+5.Score
+6.Inventory or some compelling alternative.
+
+What will you have to do to get this working?
+Are you perpared?Do you have all the knowledge you need?
+1.I'd have to add to my map.
+2.Just add more of them.
+3.Come up with an idea for a trap.
+4.You already take damage from enemies in my game so I just need to fix my orbs and make them give damage.
+5.I already have score.
+6.I might try to make a certain amount of orbs you have.
+
+
