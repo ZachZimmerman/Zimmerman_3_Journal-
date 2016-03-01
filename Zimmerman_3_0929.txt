@@ -1,0 +1,6 @@
+What is a method?
+A method is a function or a smaller program. 
+What are they good for?
+A code used to do the same process over and over aagin.
+How can we use methods to find primes?
+To count the number over and over again.

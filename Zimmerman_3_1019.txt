@@ -1,0 +1,14 @@
+You should be almost done with your methods.
+Are you? Why or why not?
+I am almost done, I am not done because i'm still figuring out everything.
+
+Describe what you did the days we went over art methods. What did you write?
+ type? What were your thoughts?I though it was super cool. I was typing it
+in netbeans but i changed it up a bit to make it my own.
+
+Did you notice that art method code was shared in the journals (as proclaimed
+ with very large text)? Why or why not?It was there however the picture file
+ didn't get pushed.
+Have you examined the sample code on github? Why or why not?I totally have.
+
+Write a sample method for making a sequence of red squares on the canvas.

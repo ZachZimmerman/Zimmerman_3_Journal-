@@ -1,0 +1,20 @@
+Define a class Rat
+
+public class Rat(){
+int health;
+
+Rat(int health, int a, int b){
+this.x = a;
+this.y = b;
+this.health = health;
+}
+}
+
+Provide the code to declare and instatiate Rats
+
+
+Explain where the decaration and initialization are placed
+
+
+Provode a two-dimensional array that specifies coordinates for five rats
+

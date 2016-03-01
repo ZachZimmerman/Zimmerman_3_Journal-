@@ -1,0 +1,5 @@
+Say what the difference between MIT and GPL licenses and which one we will use in here.
+The MIT gives you all the power over that source code, the GPL is open sourse and can be changed by anyone. 
+We will be using GPL so can be stoped from doing stuff we arent suppose and so Mr.Davis can monitor us.
+Linux???
+
