@@ -1,0 +1,20 @@
+Arduino uses a variant of the C programming language
+What differences and similarites have you noticed? Provide at least 3 and explain in complete sentences.
+1.When ever you open the program the voi loops are kinda like methods that can be use through out the program when called.
+2.To start a new program it is very similar in how you start.
+3.The endings of classes and methods are similar and how to call stuff.
+
+What code adaptations have you made? [Or will you make if none to date. Note: 'none' is not a valid answer]
+When we added the Piezo code we had to get rid of the void starts and void loops that came with it.
+
+What is required for a circuit?
+A power supply witch is the computer through the usb.
+
+How are programs compiled with Arduino?
+
+Describe the projects you have completed this/last week and what you have learned from them. Descriptions should be _at least_ one full paragraph in length.
+Mark and I completed all the examples and have kinda figured out how the wiring works. Now we are working on combining the Piezo abd the LCD screen to have a Jeopardy playing timer. 
+
+You will be completing your own project - a project of your own design that accepts user input and provides light and sound in some way.
+Describe your project and the code adaptations you will have to make. [Note - 'none' is not a valid answer. For example, there is a 'Simon' game provided - using that code would earn a '0' because it is 0% your code.]
+We are gonna make a timer that plays Jeopardy and has a reset botton.
