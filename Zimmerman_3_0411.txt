@@ -1,0 +1,21 @@
+What is assembly?
+A low-level programming language that is written out into binary when "compiled"
+
+What is it good for?
+Writing device drivers,operating system design and embedded systems programming.
+It is good for compiling your code. It has fewer lines of code and easier program maintenance.
+
+How is assembly different than Java?
+Assembly is a low-level lanuage. It is NOT portable. Because it uses fewer lines it is much more efficient. It is also much more prone to errors.
+And it has complete control over everything.
+
+What are differences between high level and low level languages?
+They are compiled defferently.
+
+Which type is Java? How do you know, i.e., what characteristics does it have of that language type?
+Java is a high-level language. Java is potable so it can go from windows to mac or to linux.
+Java is actually compiled.
+
+Which type is Assembly? How do you know, i.e., what characteristics does it have of that language type?
+Assembly is a low-level language, it is not potable. The only way Assembly can be ported to a new system is by having the  program rewritten.
+Assembly isn't compiled it is written out to binary. 
