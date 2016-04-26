@@ -1,0 +1,10 @@
+1.How to makes a class
+2.What is assembly 
+3.How to instantiate objects
+4.How to make methods 
+5.How to call things 
+6.What are strings 
+7.How do booleans work
+8.How to read and figure out what other peoples codes do
+9.How images are produced in java
+10.How programming languages are similar to each other 
