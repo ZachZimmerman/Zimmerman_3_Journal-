@@ -1,0 +1,41 @@
+For what computational reason did you type elf64?
+Because it is 64 bit
+
+Why did you use ld?
+It is a linker.
+(a linker is a program that comes with a complier or a assembler)
+
+Why did you not have to use chmod to make sample executable?
+Because nasm is not a exacutable. You will still need the linker to get it to run. 
+
+Now - change the code to print your name. You should change the program so that it actually prints your name.
+Post the code in your journal
+
+
+
+global _start
+
+        section .text 
+_start:
+        ; write(1, message, 13)
+        mov     rax, 1                  ; system call 1 is write
+        mov     rdi, 1                  ; file handle 1 is stdout
+        mov     rsi, message            ; adressof string to output
+        mov     rdx, 15                 ; number of bytes
+        syscall                         ; invoke operating system to do write
+
+        ; exit(0)
+        mov     eax, 60                 ; system call 60 is exit 
+        xor     rdi ,rdi                ; exit code 0
+        syscall                         ; invoke operating system to exit
+message:
+        db      "Zachary Zimmerman", 10 ; note the newline  at the end 
+
+
+What problem did you have to solve to get it to work?
+I actaully don't know.
+Given your actual experience with Assembly now --- Is assembly 'quick and easy'? Why or why not?
+Gawd no. If you have an error you have to go back over every line of code to find the error. The syntaxs are different so you have to learn where to put stuff and things.
+
+What does 'low level' actually mean with regards to programming languages?
+It provides very little abstractions from the computers architecture. It is a lot closer to the computer and not "dumbed" down.
