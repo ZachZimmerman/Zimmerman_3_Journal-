@@ -1,0 +1,19 @@
+The Slick assignment was intended to gently familiarize you with 2-D arrays. Some students recognized the 2-D arrays from Slick and previous journals
+--- other students had no recollection. Which were you? Why? Note - attributing the environment is not pragmatic -
+ as students experienced the same environment (though they might have experienced it differently)
+
+I didn’t remember anything, however i asked Jordan and he gave me a really good summary of arrays. But I couldn’t start the rest of it to actually make the array.     
+
+Make a list of ten questions related to the Array assignments pt 1 and 2 - that you predict will be on the semester exam. E.g., object initialization, class constructors, creating and changing arrays, etc.
+
+1.What is the difference between an array and ArrayList?
+2.What did the while loop do in the array game?
+3.What is a 2D array?
+4.What is a 3D array?
+5.How did the enemies move on there own?
+6.Why did the game break if you went to far Left, Right, Up or Down?
+7.How do you make multiple boards, like levels?
+8.How do you make a weapon to kill the enemies?
+9.How can you randomize traps around your map?
+10.How do you make mulitple enemies? 
+
