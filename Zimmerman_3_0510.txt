@@ -1,0 +1,48 @@
+Create a class for 'Hero'
+The class should contain:
+variables for health, score, power/weapon, dexterity, perception, level, x, y, z, and a symbol
+There should also be a class constructor accepting inputs for name, x, y, and symbol
+Provide an example of initializing a hero object with your name
+Explain why you would not initialize the hero in class hero.
+
+package pkgGame;
+
+import java.util.Scanner;
+
+public class Hero {
+
+public int health; 
+public int score;
+public int dexterity;
+public int perception;
+public int level;
+public int x;
+public int y;
+public int z;
+char symbol;
+public String name;
+public String Weapon = "Rocket Launcher"
+
+Hero (int a, int b, int c,String d,String e) {
+this.x =a;
+this.y=b;
+this.z=c;
+this.symbol = d;
+this.name = e;
+	}
+}
+
+
+
+public static void main(){
+Hero hero = new Hero();
+System.out.pritnln("please type in a name");
+Scanner scanner1 = new Scanner(System.in);
+hero.name = scanner1.nextLine().trim();    
+
+
+}
+
+
+
+THANKS ANDREAS
