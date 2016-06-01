@@ -1,0 +1,33 @@
+Explain casting. Up-casting, Down-casting.
+Changing values into different values like a int to a float.
+TO make it more specific.
+Or a float to an int
+
+Give a specific code example for up-casting
+
+
+Give a specific code example for down-casting
+
+Give a specific code example for converting a char to a String
+
+What is the range of values for byte? Why?
+
+(11:27:37 AM) Decahexahedrpm:
+upcasting and downcasting involve extending classes to each other so you can reference classes in each other on multiple levels.
+up-casting is getting more general, down-casting is getting more specific
+Give a specific code example for up-casting
+	int I;
+	float F;
+	F = 2.43;
+	I = F;
+    Give a specific code example for down-casting
+	Dog d1 = new Dog();		 
+	Animal a = d1;	
+	Dog d2 = (Dog) a;
+    Give a specific code example for converting a char to a String
+	char e;
+	(String) e;
+    What is the range of values for byte? Why?
+	-128 to 127
+bytes only have 8 bits, range of 255
+

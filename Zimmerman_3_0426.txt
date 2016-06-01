@@ -1,0 +1,8 @@
+Write a Java method to return the cubed value of some number.
+
+Write an Arduino function to return the cubed value of some number.
+
+Create the class, an object, and class constructor for class student
+
+Describe - if we were to continue with Arduino - what would you create?
+
